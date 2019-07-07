@@ -1,0 +1,3 @@
+#ac00e6 -> lilás
+#0000e6 -> azul
+#33adff -> azul celeste
