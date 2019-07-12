@@ -272,7 +272,7 @@ a:hover, a:focus {
   right: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgb(142, 142, 142);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: .3s all ease-out;
